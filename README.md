@@ -2,6 +2,8 @@
 
 Programs I've written to apply mathematics and physics I've studied independently, including linear algebra, probability and statistics, and Lagrangian mechanics.
 
+![Double pendulum animation showing the path of the lower bob](double-pendulum/demo.gif)
+
 | Project | Language | What it does |
 |---|---|---|
 | [Double-Pendulum Simulation](double-pendulum/) | Python | Derives the equations of motion with Lagrangian mechanics, then simulates and animates the chaotic motion |
